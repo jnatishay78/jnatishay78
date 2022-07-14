@@ -2,7 +2,7 @@
 
 
 
-<h2>💻About Me<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="440px" height="250px" align:right></h2>
+<h2>💻About Me<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="740px" height="250px" align:right></h2>
 
 👨🏻‍🎓 Kudos!, I am Atishay, young Engineer Enthusiast pursuing Bachelors from Computer Science and Engineering.<br>
 
