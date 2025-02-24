@@ -42,8 +42,6 @@
 
    ![Atishay's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jnatishay78&theme=prussian&show_icons=true&count_private=true)
    <br />
-   <br />
-   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnatishay78&theme=prussian&hide_border=true)
-   <br />
+   
    
    
